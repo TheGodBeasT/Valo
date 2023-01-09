@@ -1,0 +1,17 @@
+h2{
+    color: rebeccapurple;
+    
+}
+p{
+    color: crimson;
+}
+h1{
+    text-align: center;
+}
+input[type="password"]{
+    color: aqua;
+
+}
+p{
+    width: 250px;
+}
